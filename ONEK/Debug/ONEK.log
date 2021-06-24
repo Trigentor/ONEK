@@ -1,0 +1,3 @@
+﻿  TWOK.cpp
+C:\Users\Рамазан\source\repos\ONEK\ONEK\TWOK.cpp(21,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  ONEK.vcxproj -> C:\Users\Рамазан\source\repos\ONEK\Debug\ONEK.exe
